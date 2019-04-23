@@ -1,4 +1,6 @@
 import time
 print("hello world")
-time.sleep(1)
-print chr(7)
+for i in range(1,4):
+    print chr(7)
+    time.sleep(1)
+    
