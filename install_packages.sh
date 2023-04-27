@@ -10,7 +10,7 @@ sudo apt upgrade -y
 sudo apt -y install git
 sudo apt -y install make
 sudo apt -y install gfortran
-sudo apt -y install python
+sudo apt -y install python3
 
 # re-check and cleanup
 sudo apt upgrade -y --fix-missing
