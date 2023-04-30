@@ -1,3 +1,4 @@
+#!/bin/python3
 x=5
 print(x)
 print("x = {}".format(x))
