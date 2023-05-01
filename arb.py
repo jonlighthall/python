@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 print("demonstration of arbitrary integer precision")
 x = str( 3**2 )
 print ("3**2 = %s and has %i digits" % (x,len(x)))
