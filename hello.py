@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 import time #required for sleep
 print("hello world")
 print("python")
