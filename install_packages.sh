@@ -11,6 +11,7 @@ sudo apt -y install git
 sudo apt -y install make
 sudo apt -y install gfortran
 sudo apt -y install python3
+sudo apt -y install python-is-python3
 
 # re-check and cleanup
 sudo apt upgrade -y --fix-missing
