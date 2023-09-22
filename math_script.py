@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import sys
 def multiply_number(input_number):
     multiplied = input_number * 2  # Perform the mathematical function
